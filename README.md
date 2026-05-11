@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Anastasia!
+---
+Electrical and Computer engineering student in Aristotle University of Thessaloniki
 
 <!--
 **strikoua/strikoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
